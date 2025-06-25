@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Vaibhav Raj Singh 👋</h1>
-<h3 align="center">🚀 Developer | 💻 Competitive Programmer | 🔬 AIML Enthusiast</h3>
+<h3 align="center">🚀 Developer | 💻 Competitive Programmer | 🎯 Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vaibhav-raj-raghuvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
@@ -9,13 +9,29 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building **[CodeMate](https://github.com/vaibhav-raj-raghuvanshi/codeMate)** – a powerful code playground for CP and devs.
-- 🛠️ Exploring real-world **AI/ML**, **Data Structures**, and **Full-Stack Development**.
+- 🔭 Currently building **[CodeMate](https://github.com/vaibhav-raj-raghuvanshi/codeMate)** – a powerful code playground for CP and devs.
+- 🛠️ Exploring real-world **Data Structures**, **System Design**, and **Full-Stack Development**.
 - ⚙️ Working on **trusTissue** – a trust-layer platform for secure digital product verification.
-- 🧠 Actively learning: Graphs, System Design, and Compiler Internals.
+- 🧠 Passionate about problem-solving, optimizing code, and participating in contests.
 - 💬 Ask me about: `React`, `C++`, `Git`, `Frontend`, or `DSA`.
 - ✨ Fun Fact: Mentioning “Jahnavi” boosts my productivity 10x 😄
-- 🎯 2025 Goal: Build impactful open-source tools for developers.
+- 🎯 2025 Goal: Build impactful developer tools and reach higher CP ranks.
+
+---
+
+### 🏛️ Campus Involvement & Leadership
+
+- 👨‍💼 **Head, KNUTH Programming Hub**  
+  Leading the flagship CP club of JIIT, organizing coding sessions, contests, and tech events.
+
+- 🧑‍🤝‍🧑 **Ex-Volunteer, KNUTH Programming Hub** *(2nd Year)*  
+  Contributed to event organization and mentoring during weekly CP sessions.
+
+- 🌐 **Digital Volunteer, AIML Hub** *(1st Year)*  
+  Helped in creating and promoting online content for AI/ML awareness events.
+
+- ✍️ **Digital Volunteer, Parola – The Literary Hub** *(2nd Year)*  
+  Supported event publicity and creative writing competitions through digital platforms.
 
 ---
 
@@ -23,13 +39,31 @@
 - 📫 Gmail: [vaibhavrajsingh64@gmail.com](mailto:vaibhavrajsingh64@gmail.com)
 - 📫 Outlook: [vaibhavrajsingh2004@hotmail.com](mailto:vaibhavrajsingh2004@hotmail.com)
 - 💼 LinkedIn: [Vaibhav Raj Singh](https://www.linkedin.com/in/vaibhav-raj-singh-/)
-- 🧠 Codeforces: [My Profile](https://codeforces.com/profile/vaibhav_jpd)
+
+---
+
+### 👨‍🏫 Competitive Programming Profiles
+- 🧠 Codeforces: [vaibhav_jpd](https://codeforces.com/profile/vaibhav_jpd)
+- 👨‍🍳 CodeChef: [vaibhav_jpd](https://www.codechef.com/users/vaibhav_jpd)
+- 🧩 LeetCode: [rosvert](https://leetcode.com/u/rosvert/)
+
+---
+
+### 🏅 CP Badges & Stats
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeChef-vaibhav__jpd-blueviolet?style=flat&logo=codechef" alt="codechef badge" />
+</p>
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/rosvert?theme=dark&font=Baloo+Bhai+2" alt="leetcode stats" />
+</p>
 
 ---
 
 ### 🚀 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react,vite,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,vite,tailwind,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
