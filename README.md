@@ -23,7 +23,7 @@
 - 📫 Gmail: [vaibhavrajsingh64@gmail.com](mailto:vaibhavrajsingh64@gmail.com)
 - 📫 Outlook: [vaibhavrajsingh2004@hotmail.com](mailto:vaibhavrajsingh2004@hotmail.com)
 - 💼 LinkedIn: [Vaibhav Raj Singh](https://www.linkedin.com/in/vaibhav-raj-singh-/)
-- 🧠 Codeforces: [My Profile](https://codeforces.com/profile/your-username)
+- 🧠 Codeforces: [My Profile](https://codeforces.com/profile/vaibhav_jpd)
 
 ---
 
