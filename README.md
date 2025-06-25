@@ -31,7 +31,7 @@
   Helped in creating and promoting online content for AI/ML awareness events.
 
 - ✍️ **Digital Volunteer, Parola – The Literary Hub** *(2nd Year)*  
-  Supported event publicity and creative writing competitions through digital platforms.
+  Supported event publicity and competitions through digital platforms.
 
 ---
 
