@@ -14,7 +14,7 @@
 - ⚙️ Working on **trusTissue** – a trust-layer platform for secure digital product verification.
 - 🧠 Passionate about problem-solving, optimizing code, and participating in contests.
 - 💬 Ask me about: `React`, `C++`, `Git`, `Frontend`, or `DSA`.
-- ✨ Fun Fact: Mentioning “Jahnavi” boosts my productivity 10x 😄
+- ✨ Fun Fact: Mentioning boosts my productivity 10x 😄
 - 🎯 2025 Goal: Build impactful developer tools and reach higher CP ranks.
 
 ---
