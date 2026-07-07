@@ -1,174 +1,121 @@
 <h1 align="center">Hey there, I'm Vaibhav Raj Singh 👋</h1>
-<h3 align="center">Software Engineer • Competitive Programmer • Full-Stack Developer</h3>
+<h3 align="center">🚀 Developer | 💻 Competitive Programmer | 🎯 Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://vaibhavrajsingh.in">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Live-0A66C2?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhav-raj-singh-/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vaibhavrajsingh64@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-raj-raghuvanshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/vaibhav-raj-raghuvanshi?label=Followers&style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-raj-raghuvanshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/vaibhav-raj-raghuvanshi?label=Followers&style=social" alt="followers"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
-
-- 🎓 B.Tech in Computer Science @ **Jaypee Institute of Information Technology (JIIT), Noida**
-- 🚀 Passionate about **Competitive Programming**, **Full-Stack Development**, and **System Design**
-- 💡 Love building developer tools and solving real-world engineering problems
-- 🌱 Currently exploring scalable backend systems and modern web technologies
-- 💬 Ask me about **C++, React, JavaScript, Node.js, Express, MongoDB, Git, or DSA**
-
----
-
-# 🏆 Competitive Programming
-
-- 🧩 **900+ Problems Solved** on LeetCode
-- 👑 **Knight** on LeetCode (**1886 Contest Rating**)
-- 🔥 **500 Days Badge** on LeetCode
-- 📈 Regular participant in LeetCode, Codeforces & CodeChef contests
-
-### Profiles
-
-- 🧠 **Codeforces:** https://codeforces.com/profile/vaibhav_jpd
-- 👨‍🍳 **CodeChef:** https://www.codechef.com/users/vaibhav_jpd
-- 🧩 **LeetCode:** https://leetcode.com/u/rosvert/
+### 👨‍💻 About Me
+- 🔭 Currently building **[CodeMate](https://github.com/vaibhav-raj-raghuvanshi/codeMate)** – a powerful code playground for CP and devs.
+- 🛠️ Exploring real-world **Data Structures**, **System Design**, and **Full-Stack Development**.
+- ⚙️ Working on **trusTissue** – a trust-layer platform for secure digital product verification.
+- 🧠 Passionate about problem-solving, optimizing code, and participating in contests.
+- 💬 Ask me about: `React`, `C++`, `Git`, `Frontend`, or `DSA`.
+- ✨ Fun Fact: Mentioning boosts my productivity 10x 😄
+- 🎯 2025 Goal: Build impactful developer tools and reach higher CP ranks.
 
 ---
 
-# 🏛️ Leadership & Campus Involvement
+### 🏛️ Campus Involvement & Leadership
 
-- 👨‍💼 **Head, KNUTH Programming Hub (JIIT)**
-- 🎯 Organized coding contests, workshops, and technical events
-- 👨‍🏫 Mentored juniors in Competitive Programming
-- 🌐 Former Digital Volunteer, AIML Hub
-- ✍️ Former Digital Volunteer, Parola – The Literary Hub
+- 👨‍💼 **Head, KNUTH Programming Hub**  
+  Leading the flagship CP club of JIIT, organizing coding sessions, contests, and tech events.
 
----
+- 🧑‍🤝‍🧑 **Ex-Volunteer, KNUTH Programming Hub** *(2nd Year)*  
+  Contributed to event organization and mentoring during weekly CP sessions.
 
-# 🚀 Featured Projects
+- 🌐 **Digital Volunteer, AIML Hub** *(1st Year)*  
+  Helped in creating and promoting online content for AI/ML awareness events.
 
-## 🌐 Personal Portfolio
-
-An interactive portfolio showcasing my journey, projects, achievements, and technical skills with immersive animations and modern UI.
-
-**Tech Stack**
-
-`HTML` • `CSS` • `JavaScript` • `GSAP`
-
-🔗 **Live:** https://vaibhavrajsingh.in
+- ✍️ **Digital Volunteer, Parola – The Literary Hub** *(2nd Year)*  
+  Supported event publicity and competitions through digital platforms.
 
 ---
 
-## 💻 CodeMate
-
-A modern online code playground for Competitive Programming and developers.
-
-### Features
-
-- ⚡ Real-time Code Execution
-- 🎨 Multiple Themes
-- 📄 Custom Input & Output
-- 🧠 Syntax Highlighting
-- 🚀 Competitive Programming Templates
-
-**Tech Stack**
-
-`React` • `Monaco Editor` • `Judge0 API` • `Tailwind CSS`
+### 🌐 Connect with Me
+- 📫 Gmail: [vaibhavrajsingh64@gmail.com](mailto:vaibhavrajsingh64@gmail.com)
+- 📫 Outlook: [vaibhavrajsingh2004@hotmail.com](mailto:vaibhavrajsingh2004@hotmail.com)
+- 💼 LinkedIn: [Vaibhav Raj Singh](https://www.linkedin.com/in/vaibhav-raj-singh-/)
 
 ---
 
-## 🛡️ trusTissue
-
-A trust-verification platform that bridges buyers and sellers through transparent product verification.
-
-**Tech Stack**
-
-`React` • `Node.js` • `Express` • `MongoDB`
+### 👨‍🏫 Competitive Programming Profiles
+- 🧠 Codeforces: [vaibhav_jpd](https://codeforces.com/profile/vaibhav_jpd)
+- 👨‍🍳 CodeChef: [vaibhav_jpd](https://www.codechef.com/users/vaibhav_jpd)
+- 🧩 LeetCode: [rosvert](https://leetcode.com/u/rosvert/)
 
 ---
 
-## 📘 JIIT Web Help
+### 🏅 CP Badges & Stats
 
-A centralized portal helping JIIT students quickly access important academic resources.
+<p align="left">
+  <img src="https://img.shields.io/badge/CodeChef-vaibhav__jpd-blueviolet?style=flat&logo=codechef" alt="codechef badge" />
+</p>
 
----
-
-# 💻 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,react,vite,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,postman" />
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/rosvert?theme=dark&font=Baloo+Bhai+2" alt="leetcode stats" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhav-raj-raghuvanshi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-raj-raghuvanshi&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-raj-raghuvanshi&layout=compact&theme=tokyonight&hide_border=true"/>
-
+### 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,vite,tailwind,nodejs,express,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
+### 📈 GitHub Stats
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-raj-raghuvanshi&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhav-raj-raghuvanshi&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=vaibhav-raj-raghuvanshi&theme=radical" width="48%"/>
 </p>
 
 ---
 
-# 🌱 Currently Learning
+### 🧰 Featured Projects
 
-- 🏗️ System Design
-- ⚙️ Distributed Systems
-- ☁️ Cloud & DevOps
-- 🚀 Scalable Backend Engineering
+#### 🔷 [CodeMate](https://github.com/vaibhav-raj-raghuvanshi/codeMate)
+> 🧑‍💻 A modern online code playground for CP and devs. Supports real-time code execution, theme toggles, error highlights & custom I/O.
 
----
+#### 🛡️ [trusTissue](https://github.com/vaibhav-raj-raghuvanshi/trusTissue)
+> ✅ A trust-verification platform bridging buyers and sellers via Telegram, Instagram, etc. Ensures real product specs match claims.
 
-# 🌐 Connect With Me
-
-- 🌍 **Portfolio:** https://vaibhavrajsingh.in
-- 💼 **LinkedIn:** https://www.linkedin.com/in/vaibhav-raj-singh-/
-- 📧 **Gmail:** vaibhavrajsingh64@gmail.com
-- 📧 **Outlook:** vaibhavrajsingh2004@hotmail.com
+#### 🌐 [jiit-web-help](https://github.com/vaibhav-raj-raghuvanshi/jiit-web-help)
+> 📘 A simple static web portal to help JIIT students access web resources easily.
 
 ---
 
-# 💬 Quote
-
-> **"I don't just write code. I build experiences, solve problems, and never stop learning."**
+### 🧩 My GitHub Repositories
+<a href="https://github.com/vaibhav-raj-raghuvanshi?tab=repositories">
+  <img src="https://img.shields.io/badge/See%20all%20projects-2ea44f?style=for-the-badge&logo=github" alt="Projects" />
+</a>
 
 ---
 
+### 📅 Contribution Graph
 <p align="center">
-
-### ⭐ Thanks for visiting!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-It motivates me to build even more awesome projects.
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhav-raj-raghuvanshi&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+### 🕓 Time Zone
+> 🕔 IST (UTC+5:30) — Always coding or planning the next build!
+
+---
+
+### 💬 Personal Quote
+> _"I don't just write code. I build experiences, solve problems, and stay curious."_ 💡
+
+---
+
+### 🧡 Support & Collaboration
+If you're building something cool, need a dev buddy, or want to contribute to open source together — reach out!
+
+---
+
+⭐️ _If you like my work, consider giving a ⭐️ to my projects. It motivates me a lot!_""
